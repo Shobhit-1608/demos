@@ -8,6 +8,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
+
     private var layoutManag : RecyclerView.LayoutManager? = null
     //private var adapter: RecyclerView.Adapter<RecyclerAdapter.ViewHolder>? = null
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -15,8 +16,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         layoutManag =   LinearLayoutManager(this)
-        recyclerView.adapter = RecyclerAdapter()
-        recyclerView.layoutManager = this.layoutManag
+        /*recyclerView.adapter = RecyclerAdapter()
+        recyclerView.layoutManager = this.layoutManag*/
 
     }
+
 }
