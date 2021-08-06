@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_alarm.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_book.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_content_provider.xml" value="0.1503623188405797" />
         <entry key="app/src/main/res/layout/activity_custom_button.xml" value="0.1503623188405797" />
@@ -10,6 +11,8 @@
         <entry key="app/src/main/res/layout/activity_first_task.xml" value="0.14447463768115942" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.2269021739130435" />
         <entry key="app/src/main/res/layout/activity_saved_info.xml" value="0.1503623188405797" />
+        <entry key="app/src/main/res/layout/activity_third_task.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/menu/header_menu.xml" value="0.2677083333333333" />
       </map>
     </option>
   </component>
